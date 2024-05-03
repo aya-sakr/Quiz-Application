@@ -1,0 +1,53 @@
+[
+  {
+    "title": "why we use <br> tag",
+    "answer-1": "to make text bold",
+    "answer-2": "to make text italc",
+    "answer-3": "to Add Break line",
+    "answer-4": "to creat horizontal line",
+    "right_answer": "to Add Break line"
+  },
+  {
+    "title": "Is <img>  has Attribite href",
+    "answer-1": "yes",
+    "answer-2": "No its for Anchor tag <a>",
+    "answer-3": "All Elemevt has this Attribute",
+    "answer-4": "answer 1 $ 2 right",
+    "right_answer": "No its for Anchor tag <a>"
+  },
+
+  {
+    "title": "How can we make element text bold",
+    "answer-1": "butting it inside <b> tag ",
+    "answer-2": "butting it inside <strong> tag ",
+    "answer-3": "customizing it by font-weight property in css",
+    "answer-4": "all answer is right",
+    "right_answer": "all answer is right"
+  },
+  {
+    "title": "in html can we use this way yo add attributes",
+    "answer-1": "<div class = 'class-name' >",
+    "answer-2": "<div class = class-name > ",
+    "answer-3": "<div class = \"class-name\" >",
+    "answer-4": "all answer is right",
+    "right_answer": "all answer is right"
+  },
+
+  {
+    "title": "What is the element thats not exists in html5 semantics",
+    "answer-1": "<aticles>",
+    "answer-2": "<seaction> ",
+    "answer-3": "< blockquote>",
+    "answer-4": "<aside>",
+    "right_answer": "< blockquote>"
+  },
+
+  {
+    "title": "How we specify doucument type of html5 page",
+    "answer-1": "<DOCTYPE html>",
+    "answer-2": "<DOCTYPE html5>",
+    "answer-3": "<!DOCTYPE html>",
+    "answer-4": "<!DOCTYPE html5>",
+    "right_answer": "<!DOCTYPE html>"
+  }
+]
